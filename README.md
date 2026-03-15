@@ -2,6 +2,8 @@
 
 ## This is an explanation as how AI-Usage will be used within the context of this assignment.
 
+### Update 3/15/2026: Missed week is Week 3, where spring break and thus an update was forgotten to be added.
+
 Currently, as the assignment is in progress, this will be plans for AI-Usage for the future artifacts.
 
 The proposed AI Usage is as follows:
